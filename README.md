@@ -24,17 +24,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9shrey&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9shrey&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=9shrey&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
   <a href="mailto:9shrey@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge"/>
   </a>
