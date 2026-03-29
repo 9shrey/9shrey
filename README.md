@@ -25,29 +25,6 @@ My work focuses on:
 
 ---
 
-## Selected Work
-
-### AI Menu Generator
-LLM-based system for generating structured, personalized restaurant menus.
-
-### Customer Churn Prediction
-Production-oriented ML pipeline with feature engineering, model training, and API deployment.
-
-### Backend Systems (Go / Rust)
-High-performance services designed for low latency and scalability.
-
----
-
-## Approach
-
-User → API → Model → Database → Response
-
-- Emphasis on system design over isolated scripts  
-- Focus on scalability and performance  
-- Preference for clean, maintainable architectures  
-
----
-
 ## Technology Stack
 
 <p align="center">
@@ -66,14 +43,6 @@ User → API → Model → Database → Response
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=9shrey&theme=minimal&hide_border=true"/>
 </p>
-
----
-
-## Current Focus
-
-- Building production-grade AI systems  
-- Improving backend system design and scalability  
-- Working with Go and Rust for performance-critical services  
 
 ---
 
