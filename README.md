@@ -1,36 +1,42 @@
+<h1 align="center">Shrey Singh</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Shrey&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <b>AI/ML Engineer · Backend Engineer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Systems;Backend+Engineering;Scalable+Applications" />
+  Building practical ML systems, GenAI applications, and backend infrastructure.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Go-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge"/>
+  <a href="https://9shrey.vercel.app">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/9shrey">LinkedIn</a>
+  ·
+  <a href="mailto:9shrey@gmail.com">Email</a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,rust,fastapi,react,docker,postgres,mongodb,redis,linux,git" />
-</p>
-
----
-
-<p align="center">
-  <a href="mailto:9shrey@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,go,rust,pytorch,fastapi,react,postgres,docker,linux,git" />
 </p>
 
 ---
 
+### Currently
+
+* 🤖 Building **ML & GenAI systems**
+* ⚙️ Exploring **backend & distributed systems**
+* 🧠 Learning **Go, Rust & systems engineering**
+* 🛠️ Turning ideas into things that actually work
+
+<br>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=9shrey&show_icons=true&hide_border=true&theme=transparent&hide_title=true" />
+</p>
+
+<p align="center">
+  <sub>Build → break → learn → repeat.</sub>
 </p>
