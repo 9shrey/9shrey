@@ -22,50 +22,13 @@
 
 <div align="center">
 
-### 🔥 SYSTEM ONLINE
+### SYSTEM ONLINE
 
 <img src="https://skillicons.dev/icons?i=python,go,rust,pytorch,fastapi,react,postgres,redis,docker,linux,git&perline=11" />
 
 </div>
 
----
-
-<table align="center">
-<tr>
-<td>
-
-```text
-┌──────────────────────────────────────┐
-│  $ whoami                            │
-│                                      │
-│  shrey                               │
-│                                      │
-│  ROLE                                │
-│  ├─ AI/ML Engineer                  │
-│  ├─ Backend Engineer                │
-│  └─ Systems Enjoyer                 │
-│                                      │
-│  CURRENTLY                           │
-│  ├─ building GenAI systems          │
-│  ├─ learning Go + Rust              │
-│  └─ breaking perfectly good code    │
-│                                      │
-└──────────────────────────────────────┘
-```
-
-</td>
-
-<td>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 Things I Like Building
+## Things I Like Building
 
 <p align="center">
 
@@ -80,13 +43,13 @@
 
 ---
 
-## 🚀 Featured
+## Featured
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔎 RAG Systems
+### RAG Systems
 
 Retrieval + evaluation + quality gates.
 
@@ -96,7 +59,7 @@ Retrieval + evaluation + quality gates.
 
 <td width="50%">
 
-### 🤖 Agentic Systems
+### Agentic Systems
 
 LLM-powered workflows that actually use tools.
 
@@ -108,7 +71,7 @@ LLM-powered workflows that actually use tools.
 <tr>
 <td width="50%">
 
-### 📈 ML Systems
+### ML Systems
 
 Forecasting, evaluation & production pipelines.
 
@@ -118,7 +81,7 @@ Forecasting, evaluation & production pipelines.
 
 <td width="50%">
 
-### ⚙️ Backend
+### Backend
 
 APIs, services & infrastructure.
 
@@ -128,67 +91,12 @@ APIs, services & infrastructure.
 </tr>
 </table>
 
----
 
 <div align="center">
 
-## 🐍 contribution.exe
-
-<img src="https://raw.githubusercontent.com/9shrey/9shrey/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
----
-
-<details>
-<summary>🛠️ <b>the stack</b></summary>
+### `BUILD → BREAK → PANIC → FIX SOMEHOW → REPEAT`
 
 <br>
-
-```text
-LANGUAGES
-Python · Go · Rust · C++ · Java · JavaScript · TypeScript
-
-ML / AI
-PyTorch · Scikit-learn · XGBoost · LightGBM · OpenCV
-LLMs · RAG · Embeddings · Vector Search · Agents
-
-BACKEND
-FastAPI · React · PostgreSQL · MongoDB · Redis
-
-INFRA
-Docker · Linux · Git · GitHub Actions
-```
-
-</details>
-
-<details>
-<summary>🐛 <b>known issues</b></summary>
-
-<br>
-
-```text
-[WARN] overengineering detected
-[WARN] sleep() returned unexpected result
-[INFO] another side project has been created
-[INFO] documentation postponed indefinitely
-```
-
-</details>
-
----
-
-<div align="center">
-
-### `BUILD → BREAK → DEBUG → REPEAT`
-
-<br>
-
-<a href="https://9shrey.vercel.app">
-<img src="https://img.shields.io/badge/→_ENTER_THE_PORTFOLIO-7f1d1d?style=for-the-badge&labelColor=080808&color=991b1b"/>
-</a>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=9shrey&style=for-the-badge&color=991b1b&label=PROFILE+VIEWS"/>
 
