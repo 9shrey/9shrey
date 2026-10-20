@@ -96,10 +96,6 @@ APIs, services & infrastructure.
 
 ### `BUILD → BREAK → PANIC → FIX SOMEHOW → REPEAT`
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=9shrey&style=for-the-badge&color=991b1b&label=PROFILE+VIEWS"/>
-
 <br><br>
 
 <sub>Made with questionable amounts of caffeine.</sub>
